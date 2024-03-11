@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "950816718077",
+    "project_id": "firbase-test-crude-6ec41",
+    "storage_bucket": "firbase-test-crude-6ec41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950816718077:android:325d4448bbfe8d3d595294",
+        "android_client_info": {
+          "package_name": "com.example.firbase_test_crude"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzsScqHTvaRpGhwQsSiPTEaRBytPlqOEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
